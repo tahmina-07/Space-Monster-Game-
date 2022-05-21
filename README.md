@@ -1,3 +1,4 @@
 # Space-Monster-Game
 @copyrights <br />
-Icon: flaticon.com 
+Icons: flaticon.com <br />
+Background: freepik.com 
