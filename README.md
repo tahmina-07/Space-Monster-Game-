@@ -1,3 +1,3 @@
 # Space-Monster-Game
-@copyrights
+@copyrights <br />
 Icon: flaticon.com 
